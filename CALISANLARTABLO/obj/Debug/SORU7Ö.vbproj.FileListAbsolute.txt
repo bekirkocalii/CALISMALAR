@@ -1,0 +1,22 @@
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\bin\Debug\SORU7Ö.exe.config
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\bin\Debug\SORU7Ö.exe
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\bin\Debug\SORU7Ö.pdb
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\bin\Debug\SORU7Ö.xml
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.Form1.resources
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.Form2.resources
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.Resources.resources
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.vbproj.GenerateResource.Cache
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.exe
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.xml
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.pdb
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\bin\Debug\SORU7Ö.exe.config
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\obj\Debug\SORU7Ö.exe
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\obj\Debug\SORU7Ö.xml
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\obj\Debug\SORU7Ö.pdb
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\bin\Debug\SORU7Ö.exe
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\bin\Debug\SORU7Ö.pdb
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\bin\Debug\SORU7Ö.xml
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\obj\Debug\SORU7Ö.Form1.resources
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\obj\Debug\SORU7Ö.Form2.resources
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\obj\Debug\SORU7Ö.Resources.resources
+C:\Users\kocal\OneDrive\Masaüstü\SELAM SINAV\SORU7Ö\obj\Debug\SORU7Ö.vbproj.GenerateResource.Cache

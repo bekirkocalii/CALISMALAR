@@ -1,0 +1,10 @@
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\bin\Debug\SORU7Ö.exe.config
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.csprojResolveAssemblyReference.cache
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.Form1.resources
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.Form2.resources
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.Properties.Resources.resources
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.csproj.GenerateResource.Cache
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\bin\Debug\SORU7Ö.exe
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\bin\Debug\SORU7Ö.pdb
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.exe
+c:\users\kocal\OneDrive\Masaüstü\SORU7Ö\obj\Debug\SORU7Ö.pdb
