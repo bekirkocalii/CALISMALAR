@@ -1,0 +1,10 @@
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\bin\Debug\SORU10ö.exe.config
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\bin\Debug\SORU10ö.exe
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\bin\Debug\SORU10ö.pdb
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\bin\Debug\SORU10ö.xml
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\obj\Debug\SORU10ö.Form1.resources
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\obj\Debug\SORU10ö.Resources.resources
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\obj\Debug\SORU10ö.vbproj.GenerateResource.Cache
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\obj\Debug\SORU10ö.exe
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\obj\Debug\SORU10ö.xml
+c:\users\kocal\OneDrive\Masaüstü\SORU10ö\obj\Debug\SORU10ö.pdb
